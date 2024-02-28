@@ -1,1 +1,1 @@
-print("ld")
+print("ldd")
